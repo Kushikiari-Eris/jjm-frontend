@@ -1,1 +1,1 @@
-export const BASE_URL = 'http://localhost:7684/api'
+export const BASE_URL = 'https://core2.jjm-manufacturing.com/api'
